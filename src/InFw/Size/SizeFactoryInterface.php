@@ -9,7 +9,7 @@ namespace InFw\Size;
 /**
  * Class BaseSizeFactory.
  */
-interface SizeFactory
+interface SizeFactoryInterface
 {
     /**
      * Create instances of Size object.

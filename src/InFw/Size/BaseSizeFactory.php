@@ -12,7 +12,7 @@ use InFw\Range\RangeInterface;
 /**
  * Class BaseSizeFactory.
  */
-class BaseSizeFactory implements SizeFactory
+class BaseSizeFactory implements SizeFactoryInterface
 {
     /**
      * File size range.
